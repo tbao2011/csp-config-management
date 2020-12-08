@@ -6,7 +6,7 @@ metadata:
 spec:
   clusterName: my-cluster
   git:
-    syncRepo: git@github.com:<GITHUB-USERNAME>/csp-config-management.git
+    syncRepo: git@github.com:tbao2011/csp-config-management.git
     syncBranch: 1.0.0
     secretType: ssh
     policyDir: "hello-namespace/config-root"
